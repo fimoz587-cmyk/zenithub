@@ -8,7 +8,7 @@ local Aliases = {
         PlaceIds = {
             114234929420007,
         },
-        Url = "https://flowauth.net/v1/loaders/0e9ca766ae3be81d27c2263d3de86de5.",
+        Url = "https://flowauth.net/v1/loaders/0e9ca766ae3be81d27c2263d3de86de5.lua",
     },
 
     MM2 = {

@@ -15,7 +15,7 @@ local Aliases = {
         PlaceIds = {
             142823291,
         },
-        Url = "",
+        Url = "https://flowauth.net/v1/loaders/9c34e5e225f5d08c50886f3020acf1c8.lua",
     },
 }
 
@@ -34,7 +34,7 @@ end
 local Name, Data = FindGame(game.PlaceId)
 
 if not Data then
-    Player:Kick("place not found")
+    Player:Kick("error")
     return
 end
 
